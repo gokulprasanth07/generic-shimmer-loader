@@ -6,9 +6,6 @@ import NewListingPageVertical from "./Approach_A/Component/NewListingPageVertica
 import CardBox from "./Approach_A/Component/CardBox";
 import CardCircle from "./Approach_A/Component/CardCircle";
 
-import ShimmerComponent from "./Approach_B/Loader/ShimmerComponent";
-import ComponentA from "./Approach_B/Loader/Content/ComponentA";
-
 
 function App() {
   return (

@@ -74,6 +74,11 @@ const ShimmerWrapper = styled("span")(({ parentCmptProps }) => css`
    * For using with text. It will display lines based on the content.
    */  
 
+  /**
+   * isCircularImg?: boolean
+   * for using a circular image with loader component
+   * */
+
 export default function ShimmerLoader({ hidden, inline, isCircularImg, children }) {
   const parentCmptProps = { hidden, inline, isCircularImg, children};
   if (hidden) {
