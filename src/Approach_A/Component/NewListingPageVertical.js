@@ -18,7 +18,7 @@ export default function NewListingPageVertical() {
         }
       });
 
-    setTimeout(() => setLoading(false), 3500);
+    setTimeout(() => setLoading(false), 4000);
   }, []);
 
   const Wrapper = styled.div`

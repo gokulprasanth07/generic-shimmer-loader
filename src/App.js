@@ -10,7 +10,7 @@ import CardCircle from "./Approach_A/Component/CardCircle";
 function App() {
   return (
     <div className="App">
-      {/* <CardBox/> */}
+      <CardBox/>
       {/* <CardCircle /> */}
       {/* <NewListingPageHorizontal /> */}
       {/* <NewListingPageVertical /> */}
